@@ -1,2 +1,2 @@
 # NotebookRepo
-Creating a jupyter notebook that reads data from DataRepo
+Creating a jupyter notebook that reads adult.data.csv from DataRepo for data analysis
